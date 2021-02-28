@@ -27,10 +27,10 @@
 ### (From) 2020 Savio HT
 <p align="left">
     <a href="https://apps.apple.com/app/id1531107692">
-    <img src="https://raw.githubusercontent.com/andrros3030/About/main/resources/apple.PNG">
+    <img src="https://raw.githubusercontent.com/andrros3030/About/main/resources/apple.PNG" width="400"/>
     </a>
     <a href="https://play.google.com/store/apps/details?id=com.savio.app">
-    <img src="https://raw.githubusercontent.com/andrros3030/About/main/resources/android.PNG">
+    <img src="https://raw.githubusercontent.com/andrros3030/About/main/resources/android.PNG" width="400"/>
     </a>
 </p>
 
