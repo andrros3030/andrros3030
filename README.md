@@ -27,7 +27,7 @@
 ### 2020 Savio HT
 <p align="left">
     <a href="https://apps.apple.com/app/id1531107692">
-    <img src="https://raw.githubusercontent.com/andrros3030/About/main/resources/apple.png" width="30px">
+    <img src="https://raw.githubusercontent.com/andrros3030/About/main/resources/apple.PNG" width="30px">
     </a>
 </p>
 
