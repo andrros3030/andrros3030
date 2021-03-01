@@ -33,6 +33,8 @@
     <img src="https://raw.githubusercontent.com/andrros3030/About/main/resources/android.PNG" width="400"/>
     </a>
 </p>
+### 02.2020 Der Python team on Gamehack
+https://github.com/Martell805/thePower_ofKnowledge
 
 
 <p align="center">
