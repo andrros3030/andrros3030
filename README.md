@@ -24,7 +24,7 @@
 
 ## Projects in which I am taking part :zap:
 
-### (From) 2020 Savio HT
+### (From) 05.2020 Savio HT
 <p align="left">
     <a href="https://apps.apple.com/app/id1531107692">
     <img src="https://raw.githubusercontent.com/andrros3030/About/main/resources/apple.PNG" width="400"/>
