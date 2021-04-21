@@ -2,9 +2,7 @@
 
 <img align="right" alt="Octocat" height="130px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" >
 
-:briefcase: I use [Android Studio][1] :shipit:
-
-[1]: https://developer.android.google.cn/studio
+:briefcase: I use Android Studio and Pycharm
 
 ## Tech Stack :computer:
 
