@@ -18,6 +18,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python3" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" alt="ssh" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="qt" width="40" height="40"/>
 </p>
 
 ## Projects in which I am taking part :zap:
