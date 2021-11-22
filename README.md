@@ -22,7 +22,16 @@
 
 ## Projects in which I am taking part :zap:
 
-### (From) 05.2020 Savio HT
+### 11.2021 VisionID with FintechHubCBR
+<p align="left">
+    <a href="https://miro.com/app/board/o9J_lnVB7sg=/">
+        Project documentation
+    </a>
+</p>
+        <img src="https://sun9-75.userapi.com/impg/WYO4zlrtInky-nYdG1JCZbvViQlTA7P65vFQpw/XTxcBv3M8JM.jpg?size=720x1280&quality=96&sign=3f71598ce0ffefde1d941d135be07a7a&type=album" height="400"/>
+
+
+### 05.2020-09.2021 (still under maintenance) Savio HT
 <p align="left">
     <a href="https://apps.apple.com/app/id1531107692">
     <img src="https://raw.githubusercontent.com/andrros3030/About/main/resources/apple.PNG" width="400"/>
