@@ -23,6 +23,13 @@
 
 ## Projects in which I am taking part :zap:
 
+### 12.2021 RosatomHack2021 Team №10
+<p align="left">
+    <a href="https://github.com/RosatomHack2021/API-interface-photo-storage">
+        Project
+    </a>: rest api server + web and mobile client to upload huge amount of images and get image by id
+</p>
+
 ### 11.2021 VisionID with FintechHubCBR
 <p align="left">
     <a href="https://miro.com/app/board/o9J_lnVB7sg=/">
