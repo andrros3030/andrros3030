@@ -57,6 +57,13 @@
 ### 02.2020 Der Python team on Gamehack 
 https://github.com/Martell805/thePower_ofKnowledge
 
+### Участие в олимпиадах РСОШ
+<div class="row">
+<img alt="Шаг в Будущее 2021" src="https://raw.githubusercontent.com/andrros3030/andrros3030/main/Portfolio/previews/%D1%88%D0%B0%D0%B3_%D0%B2_%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B5_2021.jpg" height="400"/>
+<img alt="Шаг в Будущее 2020" src="https://raw.githubusercontent.com/andrros3030/andrros3030/main/Portfolio/previews/%D1%88%D0%B0%D0%B3_%D0%B2_%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B5_2020.jpg" height="400"/>
+<img alt="Гранит Науки 2021" src="https://raw.githubusercontent.com/andrros3030/andrros3030/main/Portfolio/previews/%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%82_%D0%BD%D0%B0%D1%83%D0%BA%D0%B8.JPG" height="400"/>
+<img alt="Надежда энергетики 2021" src="https://raw.githubusercontent.com/andrros3030/andrros3030/main/Portfolio/previews/%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%B4%D0%B0_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BA%D0%B8.JPG" height="400"/>
+</div>
 
 <p align="center">
     <a href="https://t.me/Mrghallo" target="blank">
