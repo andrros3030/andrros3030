@@ -8,7 +8,6 @@
 
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="google" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -22,14 +21,22 @@
 
 ## Projects in which I am taking part :zap:
 
-### 12.2021 AtomProfi2021 Team №10
+### from 12.22 Fleppa trade bot
+<p align="left">
+    <a href="https://github.com/andrros3030/fleppa_trade_bot">
+        Project repository
+    </a>: telegram bot to get data from MOEX, draw plots and pictures
+</p>
+
+
+### 12.21 AtomProfi2021 Team №10
 <p align="left">
     <a href="https://github.com/RosatomHack2021/API-interface-photo-storage">
         Project
     </a>: rest api server + web and mobile client to upload huge amount of images and get image by id
 </p>
 
-### 11.2021 VisionID with FintechHubCBR
+### 11.21 VisionID with FintechHubCBR
 <p align="left">
     <a href="https://miro.com/app/board/o9J_lnVB7sg=/">
         Project documentation
@@ -37,14 +44,14 @@
 </p>
         <img src="https://sun9-75.userapi.com/impg/WYO4zlrtInky-nYdG1JCZbvViQlTA7P65vFQpw/XTxcBv3M8JM.jpg?size=720x1280&quality=96&sign=3f71598ce0ffefde1d941d135be07a7a&type=album" height="400"/>
 
-### 05.2021 - 09.2021 (opensourced 02.2022) Cardy App Wallet
+### 05.21 - 09.21 (opensourced 02.2022) Cardy App Wallet
 <p align="left">
     <a href="https://github.com/andrros3030/cardy/blob/safe-commit/README.md">
         Open Source project
     </a> waiting for deploying to Play Market and App Store.
 </p> 
 
-### 05.2020 - 09.2020 (still under maintenance) Savio HT
+### 05.20 - 09.20 (still under maintenance) Savio HT
 <div class="row">
     <a href="https://apps.apple.com/app/id1531107692">
     <img src="https://raw.githubusercontent.com/andrros3030/About/main/resources/apple.PNG" height="120"/>
@@ -54,7 +61,7 @@
     </a>
 </div>
 
-### 02.2020 Der Python team on Gamehack 
+### 02.20 Der Python team on Gamehack 
 https://github.com/Martell805/thePower_ofKnowledge
 
 ### Участие в олимпиадах РСОШ
